@@ -1,4 +1,4 @@
-# rating_product_and_sorting_reviews in Amazon
+# rating_product_and_sorting_reviews_in_Amazon
  
  ## İş Problemi
  Ürün ratinglerini daha doğru hesaplamaya 
